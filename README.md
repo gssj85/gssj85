@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guilherme Souza, Brazilian from Rio Grande do Sul, Porto Alegre city, Fullstack Developer focused on web.
 - 👀 I’m interested in coding and learning as much as I can.
-- 🌱 I’m currently learning PHP, Javascript, HTML and CSS.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on anything I can help.
 - 📫 How to reach me just send a message or mail to gssj85 at gmail.
 
